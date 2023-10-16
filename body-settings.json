@@ -1,0 +1,17 @@
+{
+  "title": "MusicLive",
+  "version": 0.1,
+  "body": {
+    "chapters": [
+      {
+        "title": "Информация",
+        "description": "Наш сервис MusicLive сосредаточен на постиге своих произведений и прослушивания других популярных произведений"
+      },
+      {
+        "title": "Ссылки",
+        "links": [],
+        "special-mode": "footer"
+      }
+    ]
+  }
+}
